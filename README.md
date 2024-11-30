@@ -134,3 +134,49 @@ By following these key activities, Requirement Analysis ensures that the final p
 
 ------------------------------------------------------------
 ------------------------------------------------------------
+# Types of Requirements
+
+In the context of the **Booking Management Project**, requirements are categorized into **Functional Requirements** and **Non-functional Requirements**.
+
+## Functional Requirements
+
+Functional requirements define the specific behavior, functionality, or operations of the system. These are the "what" of the system.
+
+- **User Registration**: Users should be able to create an account with personal details and login credentials.
+  
+- **User Authentication**: Secure login and registration process for users.
+
+- **Property Listing**: Display hotels with key details such as price, images, and other relevant information.
+
+- **Search Functionality**: 
+  - **CDN App**: Display nearby hotels, recommendations, offers, etc.
+  - **User App**: Users should be able to search for a hotel and book it.
+
+- **Booking Functionality**: 
+  - Users should be able to create, update, view, and cancel bookings.
+
+- **Payment Functionality**: The system must process payments securely through a payment gateway.
+
+- **User Notifications**: Users should receive notifications within the app.
+
+## Non-Functional Requirements
+
+Non-functional requirements describe the system’s performance, security, scalability, usability, and reliability. These are the "how" of the system.
+
+- **Performance**:
+  - A CDN ensures faster loading times by delivering content from servers closest to the user.
+  - Use a master-slave architecture to reduce load on the database.
+
+- **Scalability**:
+  - CDNs handle high traffic by distributing the load across multiple servers.
+  - The system should be able to scale horizontally to handle increased traffic.
+
+- **Security**:
+  - CDNs protect against DDoS attacks and improve secure delivery of content.
+  - Ensure data encryption, secure login, and protection against common vulnerabilities.
+
+- **Usability**:
+  - The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+
+- **Reliability**:
+  - The system should have an uptime of 99.9% and recover quickly from any failures.
