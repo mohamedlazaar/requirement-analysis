@@ -180,3 +180,25 @@ Non-functional requirements describe the system’s performance, security, scala
 
 - **Reliability**:
   - The system should have an uptime of 99.9% and recover quickly from any failures.
+
+---------------------------------------
+---------------------------------------
+# Use Case Diagrams
+
+## What are Use Case Diagrams?
+
+Use Case Diagrams are a visual representation of the system's functionality from an end-user perspective. They illustrate the interactions between actors (users or other systems) and the system itself to achieve specific goals or tasks. 
+
+These diagrams help in understanding and visualizing how users will interact with the system, and are crucial for Requirement Analysis as they provide a clear overview of the system's expected behavior.
+
+### Benefits of Use Case Diagrams:
+- **Clarity**: They offer a simple, clear visualization of system functionality and interactions.
+- **Communication**: Help stakeholders, including developers, business analysts, and users, understand system features.
+- **Documentation**: Serve as a reference for further design, development, and testing activities.
+- **Scope Definition**: Aid in identifying system boundaries and ensuring that all user requirements are captured.
+
+## Use Case Diagram for the Booking System
+
+Below is the Use Case Diagram for the Booking System, which depicts the interactions between various actors (users, system components) and key use cases such as user registration, hotel search, booking, and payment.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
