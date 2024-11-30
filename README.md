@@ -202,3 +202,48 @@ These diagrams help in understanding and visualizing how users will interact wit
 Below is the Use Case Diagram for the Booking System, which depicts the interactions between various actors (users, system components) and key use cases such as user registration, hotel search, booking, and payment.
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+
+---------------------------------------
+---------------------------------------
+# Acceptance Criteria
+
+## Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance Criteria are a set of conditions that a system must meet to be considered complete and accepted by stakeholders. They define the scope of work, set clear expectations, and provide measurable standards for developers and quality assurance (QA) teams to ensure that the delivered feature meets the user's needs.
+
+### Why are Acceptance Criteria Important?
+- **Clarity and Transparency**: They ensure that all stakeholders are aligned on what is expected for a feature or functionality, reducing ambiguity.
+- **Validation of Requirements**: Acceptance Criteria help in verifying that the software works as expected and meets user requirements, ensuring quality before release.
+- **Testability**: They provide a basis for creating test cases and conducting testing. QA teams can verify the system by checking each criterion.
+- **Scope Management**: They help prevent scope creep by setting clear boundaries for what is included in a feature, ensuring that the development team stays focused on delivering the agreed-upon requirements.
+
+## Example of Acceptance Criteria: Checkout Feature in the Booking Management System
+
+Let’s consider the **Checkout feature** in the Booking Management System. Below are the acceptance criteria for this feature:
+
+- **AC1: User Authentication**
+  - The user must be logged in to proceed with the checkout process.
+  - If the user is not logged in, they should be prompted to log in before proceeding.
+
+- **AC2: Display Booking Summary**
+  - The checkout page should display a summary of the user's selected booking, including:
+    - Hotel name
+    - Dates of stay
+    - Price per night
+    - Total cost
+  - The summary must be accurate and reflect the most recent booking details.
+
+- **AC3: Payment Gateway Integration**
+  - The checkout page must integrate with a secure payment gateway.
+  - Users should be able to select a payment method (credit card, PayPal, etc.).
+  - The system must process payments securely, and confirm successful payment with a receipt.
+
+- **AC4: Confirmation and Booking Finalization**
+  - Once payment is successfully processed, the user should receive a booking confirmation with the booking details.
+  - The user should be able to view, update, or cancel their booking from their user profile.
+
+- **AC5: Error Handling**
+  - If the payment fails, the user should see a clear error message and be given the option to retry or choose a different payment method.
+  - If a user tries to proceed without selecting a payment method, they should receive a prompt asking them to select one.
+
+These criteria provide clear, testable conditions that ensure the Checkout feature works as expected and meets the user’s needs.
