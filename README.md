@@ -54,3 +54,83 @@ Identifying and analyzing requirements early helps uncover potential risks and c
 By understanding the significance of Requirement Analysis, teams can ensure a smoother development process, better collaboration, and successful delivery of software solutions.
 
 ------------------------------------------------------------
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities to ensure all requirements are accurately gathered, analyzed, and validated. Below are the five key activities involved:
+
+### 1. **Requirement Gathering**
+- Collecting initial requirements from stakeholders using various techniques such as:
+  - **Interviews:** Direct discussions with stakeholders to understand their needs.
+  - **Surveys/Questionnaires:** Distributing forms to gather input from a wider audience.
+  - **Workshops:** Conducting group sessions to discuss and collect requirements.
+  - **Observation:** Watching users in their work environment to understand real-world needs.
+  - **Document Analysis:** Reviewing existing documentation to understand the current system.
+
+### 2. **Requirement Elicitation**
+- Refining and elaborating on gathered requirements by:
+  - **Brainstorming:** Generating ideas and solutions collaboratively with stakeholders.
+  - **Focus Groups:** Conducting in-depth discussions with a select group of stakeholders.
+  - **Prototyping:** Creating preliminary models or mockups to visualize and refine requirements.
+
+### 3. **Requirement Documentation**
+- Recording requirements in a clear and organized manner through:
+  - **Requirement Specification Documents:** Detailed documents listing all functional and non-functional requirements.
+  - **User Stories:** Short descriptions of system functionalities from a user's perspective.
+  - **Use Cases:** Diagrams and narratives showing user interactions with the system.
+
+### 4. **Requirement Analysis and Modeling**
+- Analyzing and structuring the requirements using:
+  - **Requirement Prioritization:** Ranking requirements based on importance and impact.
+  - **Feasibility Analysis:** Evaluating the technical, financial, and time feasibility of requirements.
+  - **Modeling:** Using visual tools like data flow diagrams, entity-relationship diagrams, and workflow charts to represent and analyze requirements.
+
+### 5. **Requirement Validation**
+- Ensuring that the documented requirements are complete, accurate, and feasible by:
+  - **Review and Approval:** Sharing requirements with stakeholders for feedback and confirmation.
+  - **Acceptance Criteria Definition:** Establishing specific conditions for requirement completion.
+  - **Traceability:** Creating matrices to ensure all requirements are addressed in development and testing.
+
+By following these key activities, Requirement Analysis ensures that the final product aligns with stakeholder expectations and project objectives.
+------------------------------------------------------------
+------------------------------------------------------------
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities to ensure all requirements are accurately gathered, analyzed, and validated. Below are the five key activities involved:
+
+### 1. **Requirement Gathering**
+- Collecting initial requirements from stakeholders using various techniques such as:
+  - **Interviews:** Direct discussions with stakeholders to understand their needs.
+  - **Surveys/Questionnaires:** Distributing forms to gather input from a wider audience.
+  - **Workshops:** Conducting group sessions to discuss and collect requirements.
+  - **Observation:** Watching users in their work environment to understand real-world needs.
+  - **Document Analysis:** Reviewing existing documentation to understand the current system.
+
+### 2. **Requirement Elicitation**
+- Refining and elaborating on gathered requirements by:
+  - **Brainstorming:** Generating ideas and solutions collaboratively with stakeholders.
+  - **Focus Groups:** Conducting in-depth discussions with a select group of stakeholders.
+  - **Prototyping:** Creating preliminary models or mockups to visualize and refine requirements.
+
+### 3. **Requirement Documentation**
+- Recording requirements in a clear and organized manner through:
+  - **Requirement Specification Documents:** Detailed documents listing all functional and non-functional requirements.
+  - **User Stories:** Short descriptions of system functionalities from a user's perspective.
+  - **Use Cases:** Diagrams and narratives showing user interactions with the system.
+
+### 4. **Requirement Analysis and Modeling**
+- Analyzing and structuring the requirements using:
+  - **Requirement Prioritization:** Ranking requirements based on importance and impact.
+  - **Feasibility Analysis:** Evaluating the technical, financial, and time feasibility of requirements.
+  - **Modeling:** Using visual tools like data flow diagrams, entity-relationship diagrams, and workflow charts to represent and analyze requirements.
+
+### 5. **Requirement Validation**
+- Ensuring that the documented requirements are complete, accurate, and feasible by:
+  - **Review and Approval:** Sharing requirements with stakeholders for feedback and confirmation.
+  - **Acceptance Criteria Definition:** Establishing specific conditions for requirement completion.
+  - **Traceability:** Creating matrices to ensure all requirements are addressed in development and testing.
+
+By following these key activities, Requirement Analysis ensures that the final product aligns with stakeholder expectations and project objectives.
+
+------------------------------------------------------------
+------------------------------------------------------------
